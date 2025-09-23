@@ -6,6 +6,9 @@ from wasi_analyst.util.config import WasiConfig
 from wasi_analyst.util.store import DuckDBStore
 
 ReportFn = Callable[[str, Optional[float]], None]
+from dotenv import load_dotenv
+load_dotenv()
+
 
 def run_simulation(
     days: int,

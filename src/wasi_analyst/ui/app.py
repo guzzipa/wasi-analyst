@@ -5,6 +5,10 @@ from collections import Counter
 from wasi_analyst.app.run import run_simulation
 from wasi_analyst.util.metrics import price_metrics_table, equity_metrics
 
+from dotenv import load_dotenv
+load_dotenv()
+
+
 # --- Config de página debe ir antes de cualquier st.* visible ---
 st.set_page_config(page_title="Wasi Analyst", layout="wide")
 

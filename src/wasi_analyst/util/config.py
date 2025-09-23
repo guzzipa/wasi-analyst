@@ -10,8 +10,9 @@ class WasiConfig(BaseModel):
     seed: int = 123
     start_price: float = 100.0
     cash0: float = 100_000.0
-    max_position_per_symbol: int = 200
-    max_gross_exposure: float = 200_000.0
+    max_position_per_symbol: int = 100
+    max_gross_exposure: float = 1_000_000.0
+
     fee_bps: float = 5.0
     slippage_bps: float = 10.0
 
