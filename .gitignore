@@ -44,3 +44,6 @@ __streamlit__
 # --- OS files ---
 .DS_Store
 Thumbs.db
+.env
+.env
+.env
