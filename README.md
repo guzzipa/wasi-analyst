@@ -187,6 +187,13 @@ wasi_analyst/
 
 ---
 
+## Research Inspiration
+
+This project is inspired by ideas from the paper [WASI: World Agent-based Simulation for Investment](https://arxiv.org/pdf/2407.18957).  
+See [PAPER_INSPIRATION.md](PAPER_INSPIRATION.md) for a summary and how it connects to this repo.
+
+---
+
 ## Licencia
 
 MIT. Ver `LICENSE` si corresponde.
