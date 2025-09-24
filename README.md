@@ -4,9 +4,8 @@
 Permite simular con **datos reales (Yahoo Finance)** o **sintéticos (random walk)**, alternando entre **reglas** o **LLM** por agente.
 
 ## Demo
-<p align="center">
-  <img src="example.gif" alt="Demo" width="600">
-</p>
+Aquí un ejemplo de cómo funciona la app:
+![Demo](example.gif)
 
 
 ## Características
