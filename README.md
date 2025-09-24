@@ -3,6 +3,12 @@
 **Wasi Analyst** es un laboratorio de estrategias con **agentes de inversión** que analizan un set de símbolos, discuten y proponen órdenes.  
 Permite simular con **datos reales (Yahoo Finance)** o **sintéticos (random walk)**, alternando entre **reglas** o **LLM** por agente.
 
+## Demo
+<p align="center">
+  <img src="example.gif" alt="Demo" width="600">
+</p>
+
+
 ## Características
 
 - **Agentes**:
